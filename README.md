@@ -39,7 +39,7 @@ xdg-open index.html
 Or right-click → Open with Browser.
 No setup or installation required ✅
 
-📸 Preview
+# 📸 Preview
 <img width="1906" height="994" alt="image" src="https://github.com/user-attachments/assets/3b207af8-d4d4-406f-95cb-ef05185f4d6d" />
 
 # 🤝 Contributing
