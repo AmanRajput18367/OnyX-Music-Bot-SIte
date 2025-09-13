@@ -22,7 +22,7 @@ Click the green **Code → Download ZIP** button on GitHub or clone via git:
 ```bash
 gh repo clone AmanRajput18367/OnyX-Music-Bot-SIte
 ```
-2. Run the website
+### 2. Run the website
 
 Since it’s fully static, just open the index.html file in your browser:
 ```
