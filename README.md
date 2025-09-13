@@ -3,12 +3,10 @@
 A **futuristic, open-source website** for the **OnyX Music Bot**.  
 The site features **all your socials** with a **built-in music player** – futuristic, minimal, and eye-catching.
 
-![OnyX Music Bot Site Preview](./screenshot.png)
 
 ---
 
 ## ✨ Features
-- 🎧 **Auto-playing music** on the site  
 - 🌌 **Futuristic UI** with animations  
 - 🔗 Direct links to **all socials**  
 - 📱 **Responsive design** (works on mobile & desktop)  
