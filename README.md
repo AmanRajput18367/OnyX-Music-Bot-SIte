@@ -20,8 +20,8 @@ The site features **all your socials** with a **built-in music player** – futu
 Click the green **Code → Download ZIP** button on GitHub or clone via git:
 
 ```bash
-git clone https://github.com/yourusername/OnyX-Music-Bot-Site.git
-cd OnyX-Music-Bot-Site
+[git clone https://github.com/yourusername/OnyX-Music-Bot-Site.git
+cd OnyX-Music-Bot-Site](https://github.com/AmanRajput18367/OnyX-Music-Bot-SIte.git)
 
 # Windows
 start index.html
