@@ -44,14 +44,14 @@ No setup or installation required ✅
 
 # 🤝 Contributing
 
-###.Feel free to fork this repo and suggest improvements!
+### .Feel free to fork this repo and suggest improvements!
 
-###.Fork this repository
+### .Fork this repository
 
-###.Make changes in your branch
+### .Make changes in your branch
 
-###.Open a Pull Request
+### .Open a Pull Request
 
-#📜 License
+# 📜 License
 
 ### This project is licensed under the MIT License – use it freely in your own projects.
